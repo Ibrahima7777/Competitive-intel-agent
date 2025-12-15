@@ -149,3 +149,7 @@ MIT
 ---
 
 Built to demonstrate practical enterprise AI agent applications for competitive intelligence workflows.
+
+
+## Contributors
+- Jenna Abdullah
