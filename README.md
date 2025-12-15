@@ -40,7 +40,7 @@ This system uses **3 specialized AI agents** working together to automate compet
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/Ibrahima7777/competitive-intel-agent.git
+git clone https://github.com/Ibrahima7777/Competitive-intel-agent.git
 cd competitive-intel-agent
 pip install -r requirements.txt
 ```
